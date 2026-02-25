@@ -1,6 +1,6 @@
 # Block npm
 
-This hook is useful when you want to block AI from using `npm` and instead steer it to use your preferred package manager
+Block AI from using `npm` and steer it to use your preferred package manager
 
 ## Tools
 
